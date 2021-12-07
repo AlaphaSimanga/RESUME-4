@@ -1,0 +1,45 @@
+body{
+  background-color:blanchedalmond;
+  color:black;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.6em;
+  border-left:solid orangered 10px;
+  border-right:solid orangered 10px ;
+  border-top:solid orangered 10px ;
+  border-bottom:solid orangered 10px ;
+  margin: 30;
+  padding: 5px;
+}
+
+a:hover{
+    color:red
+}
+
+.container{
+  width: 80%;
+  margin: left;
+  overflow: hidden;
+}
+
+#main-header{
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+}
+
+#navbar ul{
+  background-color: seagreen;
+  color: #fff;
+  list-style: none;
+  float: left;
+}
+
+#main-footer{
+  background-color: #333;
+  color:#fff;
+  text-align: center;
+}
+
+
